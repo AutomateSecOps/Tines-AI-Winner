@@ -7,7 +7,7 @@ As part of the Tines onboarding, the first automation project we tackled concern
 
 We decided to host the files on an S3 bucket, since it contains only Indicators of Compromise (IOCs), therefore no PI data. By using AWS, we didn't have to maintain any internal infrastructure.
 
-One of the biggest challenges facing the Security Operations Centre (SOC) is how to lifecycle or sunset IOCs, especially IP addresses since threat actors rapidly cycle through IPs during phishing campaigns.  It is easy to add IOCs to a security platform, but how do we track them and sunset them appropriately automatically.
+One of the biggest challenges facing the Security Operations Centre (SOC) is how to lifecycle or sunset IOCs, especially IP addresses since threat actors rapidly cycle through IPs during phishing campaigns.  It is easy to add IOCs to a security platform, but how do we track them and sunset them automatically.
 
 Our Tines Customer Success Engineer recommeneded using [Tines Resources](https://www.tines.com/docs/resources/)  A Tines Resource allows the storage of information outside of a workflow, that can be consumed downstream in the same series of actions or by other workflows. Via a web form submission page, any IPs, submitted by the IR Team or SecOps, are written to a sunset list, a Tines Resource, along with the submission date.  
 
