@@ -2,7 +2,7 @@
 
 This past spring, I began my automation journey with the [Tines](https://tines.com) platform.  
 
-I have an System Administration background, with no formal training in coding. I work in Security Operations.  Our portfolio includes EDR, DNS Protection, & Threat Intelligence. 
+I have an System Administration background, with no formal training in coding. I work in Security Operations.  Our portfolio includes Endpoint Detection & Response (EDR), DNS Protection, & Threat Intelligence. 
 
 Recently, our team adopted Tines as our automation platform.
 
@@ -16,7 +16,7 @@ This month long process of co-building the IP shun workflow, with the Tines Cust
 
 I learned a lot from our Tines Success Engineer, which enabled me to start my learning in earnst.  During the onboarding process, I used the [Tines University](https://www.tines.com/university/) as a training resource.  After graduating from Tines Uni, I started the [Tines Core & Advanced certification](https://www.tines.com/get-certified/).
 
-The certification courses and training provided a solid foundation of knowledge and comfort level with the Tines platform. This past June, I started automating internal SecOps reporting we did in regards to our Endpoint, Detection, & Response (EDR) platforms. 
+The certification courses and training provided a solid foundation of knowledge and comfort level with the Tines platform. This past June, I started automating internal SecOps reporting we did in regards to our EDR platforms. 
 
 The CrowdStrike Falcon sensor goes into Reduced Functionality Mode (RFM), usually because the operating system (OS) or kernel version is too old or too new for the sensor to support in kernel mode.  Every week, SecOps would log into the Falcon console, and filter the host management console for endpoints in RFM for the last week.  We would generate the report and download it.  
 
