@@ -11,7 +11,7 @@ This month long process of co-building the IP shun workflow, with the Tines Cust
 
 I learned a lot from our Tines Success Engineer, which enabled me to start my learning in earnst.  During the onboarding process, I used the [Tines University](https://www.tines.com/university/) as a training resource.  After graduating from Tines Uni, I started the [Tines Core & Advanced certification](https://www.tines.com/get-certified/).
 
-The certification courses and training provided a solid foundation of knowledge and comfort with the Tines platform. This past June, I started automating some internal SecOps reporting we did in regards to our Endpoint, Detection, & Response (EDR) platforms. 
+The certification courses and training provided a solid foundation of knowledge and comfort with the Tines platform. This past June, I started automating internal SecOps reporting we did in regards to our Endpoint, Detection, & Response (EDR) platforms. 
 
 The CrowdStrike Falcon sensor goes into Reduced Functionality Mode (RFM), usually because the operating system (OS) or kernel version is too old or too new for the sensor to support in kernel mode.  Every week, SecOps would log into the Falcon console, and filter the host management console for endpoints in RFM for the last week.  We would generate the report and download it.  
 
@@ -29,11 +29,15 @@ I was quite surprised and grateful that I won.
 
 The event transformation action is responsible for tranforming data to be consumed downstream, or written to a resouce, so another workflow can use the data.  The learning curve for event transformation actions are challenging since they use different functions to slice and dice the data in the workflow.
 
-With AI automatic mode, a security analyst inputs the data to transform and types at the prompt what is needed.  In seconds, Tines generates the Python code needed and outputs the results.
+With AI automatic mode, a security analyst inputs the data to transform and types at the prompt what is needed.  In seconds, Tines generates the Python code to accomplish the task and outputs the results.
+
+<img src="https://github.com/AutomateSecOps/Tines-AI-Winner/blob/main/images/AI-Mode-1.png" width="700" height="400">
 
 There is no need to have a Comp Sci degree or extensive coding experience. 
 
-That's why I love the no-low code Tines platform, since I have the freedom to create workflows in a timely manner without understanding coding, or without maintaining the underlying Python libraries.
+That's why I love the no-low code Tines platform. 
+
+I have the freedom to create workflows in a timely manner without understanding coding, or without maintaining the underlying Python libraries.
 
 I encourage any cybersecurity team to start their automation journey with Tines, since there is no coding experience necessary.
 
