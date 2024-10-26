@@ -27,11 +27,13 @@ In Tines, I created a workflow flow that queries the Falcon platform for all end
 
 I was quite surprised and grateful that I won.
 
-The event transformation action is responsible for tranforming data to be consumed downstream, or written to a resouce, so another workflow can use the data.  The learning curve for event transformation actions are challenging since they use different functions to slice and dice the data in the workflow.
+The event transformation action is responsible for tranforming data to be consumed downstream, or written to a resouce, so another workflow can use the data.  The learning curve for event transformation actions can be challenging since the action uses different functions to slice and dice the data in the workflow.
 
 With AI automatic mode, a security analyst inputs the data to transform and types at the prompt what is needed.  In seconds, Tines generates the Python code to accomplish the task and outputs the results.
 
 <img src="https://github.com/AutomateSecOps/Tines-AI-Winner/blob/main/images/AI-Mode-1.png" width="700" height="400">
+
+<img src="https://github.com/AutomateSecOps/Tines-AI-Winner/blob/main/images/AI-Mode-2.png" width="700" height="400">
 
 There is no need to have a Comp Sci degree or extensive coding experience. 
 
@@ -39,9 +41,11 @@ That's why I love the no-low code Tines platform.
 
 I have the freedom to create workflows in a timely manner without understanding coding, or without maintaining the underlying Python libraries.
 
-I encourage any cybersecurity team to start their automation journey with Tines, since there is no coding experience necessary.
+I encourage any cybersecurity team to start their automation journey with Tines, since there is no coding experience necessary and the Tines technical support team is excellent.
 
 Try the free [Tines Commmunity Edition](https://www.tines.com/pricing/).
+
+Once you start automating, there is no going back!
 
 Happy Building!!!
 
