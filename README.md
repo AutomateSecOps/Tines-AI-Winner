@@ -38,8 +38,6 @@ With AI automatic mode, a security analyst inputs the data to transform and type
 
 <img src="https://github.com/AutomateSecOps/Tines-AI-Winner/blob/main/images/AI-Mode-1.png" width="700" height="400">
 
-<img src="https://github.com/AutomateSecOps/Tines-AI-Winner/blob/main/images/AI-Mode-2.png" width="700" height="400">
-
 There is no need to have a Comp Sci degree or extensive coding experience. 
 
 That's why I love the no-low code Tines platform. 
