@@ -1,5 +1,4 @@
-# Tines AI Efficiency Winner
-## My six month journey with the Tines SOAR platform.
+# My six month journey with the Tines SOAR platform.
 
 This past spring, I began my automation journey with the [Tines](https://tines.com) platform.  I have an System Administration background, with no formal training in coding. I work in Security Operations.  Our portfolio includes EDR, DNS Protection, & Threat Intelligence. Recently, our team adopted Tines as our automation platform.
 
