@@ -7,4 +7,6 @@ Prior to adopting Tines, the process of shunning IPs on the border firewall, was
 
 Wow! I was amazed.
 
-This month long process of co-building the IP shun workflow, with the Tines Customer Success Team, made me realize the power of automation. I learned a lot from our Tines Success Engineer.  During the onboarding process, I used the [Tines University](https://www.tines.com/university/) as a training resource.  After that, I started the Tines intro certification.
+This month long process of co-building the IP shun workflow, with the Tines Customer Success Team, made me realize the power of automation. 
+
+I learned a lot from our Tines Success Engineer, which enabled to start my learning in earnst.  During the onboarding process, I used the [Tines University](https://www.tines.com/university/) as a training resource.  After that, I started the Tines Core certification.
