@@ -15,7 +15,7 @@ The certification courses and training provided a solid foundation of knowledge 
 
 The CrowdStrike Falcon sensor goes into Reduced Functionality Mode (RFM), usually because the operating system (OS) or kernel version is too old or too new for the sensor to support in kernel mode.  Every week, SecOps would log into the Falcon console, and filter the host management console for endpoints in RFM for the last week.  We would generate the report and download it.  
 
-This report provided data on what kernel update is causing RFM, usually for Linux endpoints.  We would check to see if CrowdSTrike released a new Linux sensor version that would support the new kernel version. This weekly report took a security analyst about 20-30 minutes to create and to email the report. Over a year, this report consumed a lot time.
+This report provided data on what kernel update is causing RFM, usually for Linux endpoints.  We would check to see if CrowdStrike released a new Linux sensor version that would support the new kernel version. This weekly report took a security analyst about 20-30 minutes to create and to email the report. Over a year, this report consumed a lot time.
 
 ## 25 minutes x 52 weeks = 1,300 minutes or 21 hours!
 
