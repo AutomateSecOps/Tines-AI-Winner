@@ -35,7 +35,7 @@ There is no need to have a Comp Sci degree or extensive coding experience.
 
 That's why I love the no-low code Tines platform, since I have the freedom to create workflows in a timely manner without understanding coding, or without maintaining the underlying Python libraries.
 
-I encourage any cybersecurity team to start their automation journey with Tines, since there is coding experience necessary.
+I encourage any cybersecurity team to start their automation journey with Tines, since there is no coding experience necessary.
 
 Try the free [Tines Commmunity Edition](https://www.tines.com/pricing/).
 
