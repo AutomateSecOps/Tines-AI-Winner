@@ -34,7 +34,7 @@ I was quite surprised and grateful that I won.
 
 The event transformation action is responsible for tranforming data to be consumed downstream, or written to a resouce, so another workflow can use the data.  The learning curve for event transformation actions can be challenging since the action uses different functions to slice and dice the data in the workflow.
 
-With AI automatic mode, a security analyst inputs the data to transform and types at the prompt what is needed. After clicking Generate button, Tines creates the Python code to accomplish the task and outputs the results in seconds.
+With AI automatic mode, a security analyst inputs the data to transform and types at the prompt what is needed. After clicking the Generate button, Tines creates the Python code to accomplish the task and outputs the results in seconds.
 
 <img src="./images/AI-Mode-1.png" width="600" height="450">
 
@@ -44,7 +44,7 @@ In the Tines action, the security analyst can verify the output and move on to b
 
 At the end of the workflow, I wanted an html summary to provide an overview of the results.  I do not have a web development background, so I was not sure went into writing code for an html summary.
 
-In the Tines AI Automatic mode, I typed the below prompt and clicked the Generate button:
+In the Tines AI Automatic mode, I typed the below prompt and clicked the Generate button!
 
 <img src="./images/AI-Mode-3.png" width="600" height="450">
 
