@@ -36,9 +36,9 @@ The event transformation action is responsible for tranforming data to be consum
 
 With AI automatic mode, a security analyst inputs the data to transform and types at the prompt what is needed. After clicking the Generate button, Tines creates the Python code to accomplish the task and outputs the results in seconds.
 
-<img src="./images/AI-Mode-1.png" width="600" height="450">
+<img src="./images/AI-Mode-1.png">
 
-<img src="./images/AI-Mode-2.png" width="600" height="450">
+<img src="./images/AI-Mode-2.png">
 
 In the Tines action, the security analyst can verify the output and move on to building the rest of the workflow.
 
@@ -46,7 +46,7 @@ At the end of the workflow, I wanted an html summary to provide an overview of t
 
 In the Tines AI Automatic mode, I typed the below prompt and clicked the Generate button!
 
-<img src="./images/AI-Mode-3.png" width="600" height="450">
+<img src="./images/AI-Mode-3.png">
 
 There is no need to have a Comp Sci degree or extensive coding experience. 
 
